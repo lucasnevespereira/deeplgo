@@ -79,7 +79,6 @@ func main() {
 
 If you want to contribute to this project please read the [Contributing](CONTRIBUTING.md)
 
-<hr>
 
 ## License
 
