@@ -74,3 +74,15 @@ func main() {
 ```
 
 
+
+## How to Contribute
+
+If you want to contribute to this project please read the [Contributing](CONTRIBUTING.md)
+
+<hr>
+
+## License
+
+This project is under [BSD 3-Clause License](LICENSE)
+
+
